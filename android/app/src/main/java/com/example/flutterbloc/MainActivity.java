@@ -1,4 +1,4 @@
-package com.example.flutter_bloc;
+package com.example.flutterbloc;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
